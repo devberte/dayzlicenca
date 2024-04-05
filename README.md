@@ -1,0 +1,2 @@
+# dayzlicenca
+dayzlicenca
